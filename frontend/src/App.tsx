@@ -16,7 +16,7 @@ export default function Dashboard() {
       <div className="flex flex-1 flex-col p-4">
         {/* Charts Grid */}
 
-        <div className="flex w-full flex-col justify-evenly gap-8 lg:flex lg:grid lg:grid-cols-1 lg:grid-cols-4">
+        <div className="flex w-full flex-col justify-evenly gap-8 lg:grid lg:grid-cols-4">
           <div className="col-span-1 lg:col-span-4">
             <TimeChart
               key="sector"
