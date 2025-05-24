@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/
 lib64/
 parts/
 sdist/
@@ -238,4 +238,4 @@ TEST-results.xml
 package-lock.json
 .eslintcache
 *v8.log
-/lib/
+# /lib/
