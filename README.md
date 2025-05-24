@@ -1,6 +1,6 @@
 # DashIn
 
-[DashIn Landing](./DashIn.png)
+<img src='./DashIn.png' alt='DashIn' />
 
 Interactive Dashboard for viewing various published insights regarding environmental studies, socio-political studies, corporate and business policies, etc. Built with Django + React, powered by d3 and ShadCN visuals.
 
